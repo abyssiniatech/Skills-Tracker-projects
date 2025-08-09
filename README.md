@@ -3,7 +3,7 @@
 A simple and intuitive **React + TypeScript** application to manage your professional skills.  
 This project demonstrates a complete **CRUD** (Create, Read, Update, Delete) workflow with a clean and responsive UI powered by **Tailwind CSS**.  
 
-**Live Demo:** [View on Vercel](https://your-vercel-deployment-link.vercel.app)
+**Live Demo:** [View on Vercel]([https://your-vercel-deployment-link.vercel.app](https://skills-tracker-projects.vercel.app/))
 
 ---
 
